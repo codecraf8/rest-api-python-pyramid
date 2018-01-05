@@ -1,0 +1,6 @@
+pyramid
+sqlalchemy
+pyramid_tm
+zope.sqlalchemy
+cornice
+waitress

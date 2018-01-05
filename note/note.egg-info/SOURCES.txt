@@ -1,0 +1,12 @@
+README.rst
+setup.py
+note/__init__.py
+note/models.py
+note/views.py
+note.egg-info/PKG-INFO
+note.egg-info/SOURCES.txt
+note.egg-info/dependency_links.txt
+note.egg-info/entry_points.txt
+note.egg-info/not-zip-safe
+note.egg-info/requires.txt
+note.egg-info/top_level.txt
